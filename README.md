@@ -15,7 +15,7 @@
 
 Food Court is an online platform that connects food enthusiasts with a diverse selection of restaurants, cafes, and food vendors in their area. Whether you're craving mouthwatering cuisines, exploring new flavors, or simply looking for a quick bite, Food Court is your go-to destination for a delightful dining experience.
 
-[Project Demo Link](https://food-court-io.vercel.app/)
+[Project Demo Link](https://foodapp-16921.web.app/)
 
 
 ## Features
